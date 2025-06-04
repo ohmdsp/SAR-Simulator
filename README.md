@@ -16,6 +16,7 @@ Step 1:
 Edit the config file (config.txt) using the parameters in config_explain.txt. 
 Make sure the paths to each needed .txt file are correct. Here is how config should be setup:
 
+```
 10e9        % radar center frequency (Hz)
 4.015e8     % radar transmitter bandwidth (Hz)
 1.0e12      % input chirp rate (Hz/sec)
@@ -28,6 +29,7 @@ directory path to rx path file (e.g., path.txt)
 directory path to target file (e.g., tgtfile.txt)
 directory path to pointing vector file (e.g., bout.txt)
 directory path to phase history file (e.g., phr)
+```
 
 Step 2:
 Edit the target file (tgtfile.txt) to adjust point target amplitudes, positions 
