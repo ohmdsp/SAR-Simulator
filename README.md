@@ -3,9 +3,9 @@ Matlab code for simulating a synthetic aperture collection.
 This code can be used to understand and generate the simulations in the 
 textbook Spotlight-Mode Synthetic Aperture Radar: A Signal Processing Approach. 
 
-<img src="phd_circle.jpg" alt="Demo" width="500"/>
+<img src="phd_circle.jpg" alt="Demo" width="600"/>
 
-<img src="sar_image_circle.jpg" alt="Demo" width="500"/>
+<img src="sar_image_circle.jpg" alt="Demo" width="800"/>
 
 
 
